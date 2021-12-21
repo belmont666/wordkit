@@ -1,5 +1,5 @@
 ipapy==0.0.8.0
-numpy==1.12.1
+numpy==1.22.0rc1
 pandas==0.20.3
 nltk==3.2.4
 setuptools==39.0.1
